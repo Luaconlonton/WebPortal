@@ -192,7 +192,7 @@ function Signup() {
                 className="mb-4"
                 size="lg"
               >
-                Signup
+                Login
               </MDBBtn>
               <br />
             </MDBCol>
